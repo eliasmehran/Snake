@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.meta {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    margin: 20px;
+    display: inline-block;
+}
+
+.game {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
