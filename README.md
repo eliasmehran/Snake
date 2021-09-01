@@ -1,2 +1,2 @@
 # Snake
-Multiplayer Snake
+Snake in JS
